@@ -1,0 +1,22 @@
+body{
+    background: white;
+}
+h1{
+    margin-left: 585px;
+}
+img{
+    height: 350px;
+    width: 250px;
+    margin-left: 565px;
+    margin-top: 59px;
+}
+input[type="submit"]{
+    height: 100px;
+    width: 50px;
+    background: black;
+    color: white;
+}
+div{
+    margin-left: 190px;
+    margin-top: 50px;
+}
